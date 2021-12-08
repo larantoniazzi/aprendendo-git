@@ -1,1 +1,2 @@
-print ('Questao 05')
+print ('Adicionando outra questão...')
+print ('Questao 05!')
